@@ -12,6 +12,6 @@ An tic-tac-toe game.
 
 ## 🎮 How Playing
 
-complete Any column row or diagonal witch onlyn symbol `X` or `O`;
+complete any column, row or diagonal with only symbol `X` or `O`;
 
 You can play with your friends [here](https://jeferson1.github.io/D7JS_TICTACTOE_BASE/).
