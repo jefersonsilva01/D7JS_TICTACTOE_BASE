@@ -14,4 +14,4 @@ An tic-tac-toe game.
 
 complete any column, row or diagonal with only symbol `X` or `O`;
 
-You can play with your friends [here](https://jeferson1.github.io/D7JS_TICTACTOE_BASE/).
+You can play with your friends [here](https://jefersonsilva01.github.io/D7JS_TICTACTOE_BASE/).
